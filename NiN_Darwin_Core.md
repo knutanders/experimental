@@ -28,7 +28,7 @@ _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwi
 ||natursystem fritekst|habitatRemark|
 ||||
 ||substrat art|substrateSpecies|
-||substrat artsID|substrateSpeciesID 1|
+||substrat artsID|substrateSpeciesID ^1^|
 ||substrat art fritekst|substrateSpeciesRemark|
 ||||
 ||livsmedium|microhabitatNiN *|
