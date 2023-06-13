@@ -1,7 +1,7 @@
 
 # Habitat- og livsmediumvariabler fra NiN i Darwin Core 
 
-## Artsdatabanken 2021-03-24
+#### Artsdatabanken 2021-03-24
 
 
 Dette notatet er et forslag til enhetlig navnsetting og formatering av variabler som beskriver natursystem og livsmedium etter NiN i datastandarden Darwin Core. Slik standardisering er blant annet viktig for at data skal bli vist riktig i Artskart.
@@ -28,10 +28,10 @@ _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwi
 ||natursystem fritekst|habitatRemark|
 ||||
 ||substrat art|substrateSpecies|
-||substrat artsID|substrateSpeciesID ^1^|
+||substrat artsID|substrateSpeciesID <sup>1</sup>|
 ||substrat art fritekst|substrateSpeciesRemark|
 ||||
 ||livsmedium|microhabitatNiN *|
 ||livsmedium fritekst|microhabitatRemark|
 
-1) artsID blir automatisk lagt til av Artsdatabanken dersom artsnavnet er et gyldig navn i Artsnavnebase
+1\) artsID blir automatisk lagt til av Artsdatabanken dersom artsnavnet er et gyldig navn i Artsnavnebase
