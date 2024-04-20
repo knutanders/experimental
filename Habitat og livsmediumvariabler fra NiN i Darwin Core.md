@@ -29,4 +29,8 @@ _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwi
 ||livsmedium|microhabitatNiN *|
 ||livsmedium fritekst|microhabitatRemark|
 
-1) artsID blir automatisk lagt til av Artsdatabanken dersom artsnavnet er et gyldig navn i Artsnavnebase
+<br>
+<br>
+
+------------------------------------------------
+<sup>1</sup> artsID blir automatisk lagt til av Artsdatabanken dersom artsnavnet er et gyldig navn i Artsnavnebase
