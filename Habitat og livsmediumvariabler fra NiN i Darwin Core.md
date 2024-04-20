@@ -1,3 +1,4 @@
+# Habitat og livsmediumvariabler fra NiN i Darwin Core
 
 Dette notatet er et forslag til enhetlig navnsetting og formatering av variabler som beskriver natursystem og livsmedium etter NiN i datastandarden Darwin Core. Slik standardisering er blant annet viktig for at data skal bli vist riktig i Artskart.
 
