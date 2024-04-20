@@ -21,18 +21,18 @@ _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwi
 
 
 
-||**Variabel**|**Nøkkelord dynamicProperties**|
-|---|:---|:---|
-||natursystem|habitatNiN *|
-||NiN versjonsnummer|versionNiN|
-||natursystem fritekst|habitatRemark|
-||||
-||substrat art|substrateSpecies|
-||substrat artsID|substrateSpeciesID 1|
-||substrat art fritekst|substrateSpeciesRemark|
-||||
-||livsmedium|microhabitatNiN *|
-||livsmedium fritekst|microhabitatRemark|
+|**Variabel**|**Nøkkelord dynamicProperties**|
+|:---|:---|
+|natursystem|habitatNiN *|
+|NiN versjonsnummer|versionNiN|
+|natursystem fritekst|habitatRemark|
+|||
+|substrat art|substrateSpecies|
+|substrat artsID|substrateSpeciesID 1|
+|substrat art fritekst|substrateSpeciesRemark|
+|||
+|livsmedium|microhabitatNiN *|
+|livsmedium fritekst|microhabitatRemark|
 
 <br>
 <br>
