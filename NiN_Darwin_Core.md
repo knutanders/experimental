@@ -20,8 +20,9 @@ Nye versjoner av NiN kan føre til endringer i kodene som blir brukt for eksempe
 _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwin Core. Nøkkelord merket * er nødt til å ha verdier som samsvarer med kodeliste for NiN for å bli lest inn i Artskart._
 
 
-|---|---|---|
+
 ||**Variabel**|**Nøkkelord dynamicProperties**|
+|---|---|---|
 ||natursystem|habitatNiN *|
 ||NiN versjonsnummer|versionNiN|
 ||natursystem fritekst|habitatRemark|
