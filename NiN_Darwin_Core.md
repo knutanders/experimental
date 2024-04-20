@@ -22,7 +22,7 @@ _Tabell med oversikt over nøkkelord for bruk i feltet dynamicProperties i Darwi
 
 
 ||**Variabel**|**Nøkkelord dynamicProperties**|
-|---|---|---|
+|---|:---|:---|
 ||natursystem|habitatNiN *|
 ||NiN versjonsnummer|versionNiN|
 ||natursystem fritekst|habitatRemark|
